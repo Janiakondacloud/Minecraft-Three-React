@@ -27,7 +27,7 @@ body,
 }
 
 .texture-selector .is-active {
-    border: solid 0.5px royalblue;
+    border: solid 1px royalblue;
 }
 
 .menu-btn {
